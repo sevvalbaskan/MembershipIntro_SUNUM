@@ -6,12 +6,19 @@ Merhaba, MembershipIntro İstanbul - Beşiktaş Wissen Akademi'de Eğitmenlik ya
 PROJE HAKKINDA TEKNİK BİLGİLER:
 
 * Proje Visual Studio .Net 6 ASP.NET MVC CORE ile yazıldı.
+* 
 *Proje Entity Framework Core Code-First yaklaşımıyla yazılmıştır.
+
 *Projede üye olurken üyelerin şifreleri System.Security.Cryptography-SHA512 ile hash-salt yapısıyla gizlenerek kayıt edilmiştir.
+
 *Şifremi unuttum butonu ile üyeye email gönderilerek şifresini yenilemesi sağlanır.
+
 *Projeyi 4 katman (EL,DAL,BLL,UI) olarak yazdık.
+
 *Projede Kayıt Ol, Giriş Yap, Telefon Ekle, Telefon Sil sayfaları bulunmaktadır. Üye sisteme giriş yaptıktan sonra aşağıdaki adımları izleyerek telefon ekleyebilir.
+
 *Proje gelişmeye açık olup zaman buldukça yeni sayfalar ya da yeni özellikler eklenecektir.
+
 *Ekran resimleri ve kaynak kodlardan bir parça aşağıda görebilirsiniz.
 
 ![image](https://user-images.githubusercontent.com/73429501/220879007-00d97d14-bec6-4645-9190-665df2bd4f62.png)

@@ -7,6 +7,7 @@ PROJE HAKKINDA TEKNİK BİLGİLER:
 
 * Proje Visual Studio .Net 6 ASP.NET MVC CORE ile yazıldı.
 * Proje Entity Framework Core Code-First yaklaşımıyla yazılmıştır.
+* Proje Visual Studio 2022 IDE'sinde yazılmıştır.
 
 * Projede üye olurken üyelerin şifreleri System.Security.Cryptography-SHA512 ile hash-salt yapısıyla gizlenerek kayıt edilmiştir.
 
